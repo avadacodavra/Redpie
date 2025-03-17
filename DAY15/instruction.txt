@@ -1,0 +1,5 @@
+Registry: docker.io
+Username: admin034
+Password: redhat321
+
+All of u create a own repository for u and push the images
